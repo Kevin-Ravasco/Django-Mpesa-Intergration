@@ -1,5 +1,5 @@
 # Django-Mpesa-Intergration
-Intergrating mpesa into django. Incorporates Mpesa's STK push, C2B and B2C into django
+Intergrating mpesa into django. Incorporates Mpesa's STK push, C2B, B2C and Lipa na Mpesa Online into django
 
 make sure you download ngork and use its secure endpoint (https) in testing. Local server
 runs on http and this will not work as safaricom expects a secure connection.
